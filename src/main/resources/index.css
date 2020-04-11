@@ -1,0 +1,11 @@
+h1, li {
+    cursor: pointer;
+}
+
+.student-visit {
+    color: white;
+}
+
+.student-not_visit {
+    color: darkgray;
+}
